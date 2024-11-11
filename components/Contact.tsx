@@ -10,7 +10,7 @@ const Contact = () => {
           <h2 className="text-5xl">Connect with Me</h2>
           <p className="text-gray-600 text-[18px] pt-2">
             Feel free to reach out—whether by call or message—by simply filling
-            out the form. Let's connect!
+            out the form. Let&apos;s connect!
           </p>
           <div className="flex gap-3 items-center">
           <MdOutlineMail size={30}/>rababmuhammadhussain@gmail.com
